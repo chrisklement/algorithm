@@ -1,6 +1,6 @@
 # Project Algorithm
 
-***First confrontation and encounter with algorithms. Initially, in an analog form and afterwards into digital conversion by Processing.***
+***First confrontation and encounter with algorithms. Initially in an analog form and afterwards into digital conversion by Processing.***
 
 ## Analog
 
